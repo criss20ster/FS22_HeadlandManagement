@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+	<texts>
+    	<text name="input_HLM_TOGGLESTATE" text="Tryb pracy na uwrociach / Tryb Terenowy"/>	
+    	<text name="input_HLM_SWITCHON" text="Tryb pracy na uwrociach" />
+    	<text name="input_HLM_SWITCHOFF" text="Tryb Terenowy" />	
+    	<text name="input_HLM_SHOWGUI" text="Headland: Ustawienia" />
+    	<text name="input_HLM_MAINSWITCH" text="HLM: Włączanie/Wyłączanie"/>
+		
+		<text name="text_HLM_isActive" text="Headland-Mode aktywny"/>
+		<text name="text_HLM_configuration" text="Headlandmanagement"/>
+		<text name="text_HLM_installed" text="Headlandmanagement zainstalowany"/>
+		<text name="text_HLM_notInstalled" text="Headlandmanagement nie zainstalowany"/>
+		<text name="text_HLM_installed_short" text="zainstalowany"/>
+		<text name="text_HLM_notInstalled_short" text="nie zainstalowany"/>
+
+		<text name="hlmgui_title" text="Headlandmanagement (HLM): Ustawienia dla "/>
+		<text name="hlmgui_on" text="włącz"/>
+		<text name="hlmgui_off" text="wyłacz"/>
+		<text name="hlmgui_both" text="przód i tył"/>
+		<text name="hlmgui_seq" text="przód pierwszy,tył potem"/>
+		<text name="hlmgui_front" text="przód"/>
+		<text name="hlmgui_back" text="tył"/>
+		<text name="hlmgui_default" text="domyślny"/>
+		
+		<text name="hlmgui_speedControl" text="Speed-Control Ustawienia"/>
+		<text name="hlmgui_speedControlMod" text="Użyj mod SpeedControl"/>
+		<text name="hlmgui_speedSetting" text="Prędkość robocza na uwrociach"/>
+		<text name="hlmgui_speedControlModSetting" text="Poziom kontroli prędkości na uwrociach"/>
+	
+		<text name="hlmgui_alarmControl" text="Ustawienia ogólne"/>
+		<text name="hlmgui_beep" text="Alarm dźwiękowy podczas aktywności"/>
+		<text name="hlmgui_beepVol" text="Głośność"/>
+		<text name="hlmgui_beepVolTT" text="Głośność alarmu dźwiękowego" />
+		
+		<text name="hlmgui_implementControl" text="Kontrola osprzętu"/>
+		<text name="hlmgui_raise" text="Podnoś narzędzia"/>
+		<text name="hlmgui_plow" text="Obróć pług"/>
+		<text name="hlmgui_plowFull" text="Pełny obrót"/>
+		<text name="hlmgui_plowCenter" text="Skręć w dwóch krokach"/>
+		<text name="hlmgui_plowOff" text="Nie odwracaj się"/>
+		<text name="hlmgui_pto" text="Zatrzymaj PTO i urządzenia hydrauliczne"/>
+		<text name="hlmgui_ridgeMarker" text="Zmień ridgemarker"/>
+		
+		<text name="hlmgui_gpsControl" text="Kontrola GPS"/>
+		<text name="hlmgui_gpsSetting" text="SZatrzymaj sterowanie GPS"/>
+		<text name="hlmgui_gpsType" text="Użyj GPS-Mod"/>
+		<text name="hlmgui_gps_auto" text="wykrywaj automatycznie"/>
+		<text name="hlmgui_gps_gs" text="tylko Nawigacja GPS"/>
+		<text name="hlmgui_gps_vca" text="tylko VCA"/>
+		<text name="hlmgui_gps_vcaL" text="only VCA: Automatyczny skręt w lewo"/>
+		<text name="hlmgui_gps_vcaR" text="only VCA: Automatyczny skręt w prawo"/>
+		<text name="hlmgui_gpsAutoTriggerSetting" text="Automatyczne uwrocie"/>
+		<text name="hlmgui_gpsAutoTriggerSubTitle" text="Aktualne wymiary pojazdu: Długość całkowita:: %2.2f m, Całkowita szerokość: %2.2f m, Promień skrętu: %2.2f m"/>
+		<text name="hlmgui_gpsAutoTriggerOffsetSetting" text="Wyzwalacz do automatycznego"/>
+		<text name="hlmgui_gpsAutoTriggerOffsetWidth" text="Szerokość uwrocia"/>
+		
+		<text name= "hlmgui_vcaDirSwitch" text="VCA: Przełącz kierunek skrętu automatycznie"/>
+		<text name= "hlmgui_autoResume" text="Automatyczny tryb polowy"/>
+		
+		<text name="hlmgui_vehicleControl" text="Kontrola pojazdu"/>
+		<text name="hlmgui_diffLock" text="Odblokuj mechanizmy różnicowe"/>	
+		<text name="hlmgui_crabSteering" text="Włącz krabsterowanie"/>
+		<text name="hlmgui_csDirect" text="bezpośredni"/>
+		<text name="hlmgui_csTwoStep" text="przez normalny"/>
+		
+		<text name="hlmgui_debug" text="Debug-Ustawienia"/>
+		<text name="hlmgui_debugTitle" text="Pokaż węzły pojazdu (globalnie)"/>
+		<text name="hlmgui_debugFlagTitle" text="Spraw, aby węzły wyzwalające były widoczne"/>
+		
+		<text name="hlmgui_speedControlTT" text="Na uwrociu można zmienić ustawienie tempomatu na wartość regulowaną, a następnie zresetować."/>
+		<text name="hlmgui_speedControlModTT" text="Do ustawienia tempomatu można wykorzystać mod 'SpeedControl' jeśli jest dostępny."/>
+		<text name="hlmgui_speedSettingTT" text="Pożądane ustawienie tempomatu na uwrociu."/>
+		<text name="hlmgui_speedControlModSettingTT" text="Użyj tempomatu 1, 2 lub 3 na uwrociu."/>
+		<text name="hlmgui_alarmTT" text="Po włączeniu trybu uwrocia emitowany jest regularny sygnał ostrzegawczy."/>
+		<text name="hlmgui_raiseTT" text="Na nawrotach można podnieść i ponownie opuścić opuszczone narzędzia robocze. Opcjonalnie ustawiane dla wszystkich, tylko przednich lub tylko tylnych narzędzi roboczych."/>
+		<text name="hlmgui_plowTT" text="Po podniesieniu, pługi mogą być obracane. Albo całkowicie, albo początkowo tylko do środka, a następnie całkowicie podczas opuszczania. Uwaga: W tym ostatnim przypadku, ważne jest dobre wyczucie czasu. Dlatego zaleca się zatrzymanie się na krótko na końcu uwrocia, aby obrócić i opuścić pług."/>
+		<text name="hlmgui_ptoTT" text="Na nawrotach można wyłączyć i ponownie włączyć aktywowane narzędzia robocze. Opcjonalnie ustawiane dla wszystkich, tylko przednich lub tylko tylnych narzędzi roboczych."/>
+		<text name="hlmgui_ridgeMarkerTT" text="Podczas podnoszenia można przełączyć znacznik grzbietu na przeciwną stronę."/>
+		<text name="hlmgui_gpsTT" text="Śledzenie GPS zostaje wstrzymane na uwrociu, a następnie wznowione."/>
+		<text name="hlmgui_gpsTypeTT" text="Funkcja może być ograniczona do Guidance Steering lub VCA, lub automatycznie pauzować aktualnie aktywny system."/>
+		<text name="hlmgui_gpsAutoTriggerTT" text="W połączeniu z systemem Guidance Steering, zarządzanie na uwrociach może być aktywowane automatycznie po osiągnięciu uwrocia."/>
+		<text name="hlmgui_gpsAutoTriggerOffsetTT" text="Domyślnie funkcja zarządzania na uwrociach jest aktywowana, gdy przód pojazdu znajdzie się na uwrociu. Można to przełączyć na tył pojazdu. Ważne: Tę funkcję można przełączyć tylko wtedy, gdy prowadzenie po ścieżce GS nie jest aktywne!"/>
+		<text name="hlmgui_gpsAutoTriggerOffsetWidthTT" text="Wymiary rzeczywiste: Promień skrętu: %2.2f m, długość pojazdu: %i m"/>
+		<text name="hlmgui_diffLockTT" text="Na uwrociu aktywne blokady mechanizmów różnicowych zostają zwolnione, a następnie ponownie ustawione."/>
+		<text name="hlmgui_csTT" text="Po osiągnięciu uwrocia można przełączyć aktywne sterowanie krabem. Albo bezpośrednio, albo najpierw w pozycji normalnej lub rewersyjnej, a następnie na końcu nawrotu całkowicie."/>
+		<text name="hlmgui_VCADirSwitchTT" text="Włącza lub wyłącza automatyczne przełączanie kierunku skrętu. Użyteczne, gdy VCA ma różne numery dla pomijania pasów lewo/prawo."/>
+		<text name="hlmgui_gpsAutoResumeTT" text="Przełącza się z powrotem do trybu terenowego, gdy tylko pojazd zmieni kurs o 180°."/>
+		<text name="hlmgui_debugTT" text="Wyświetla znacznik na przednim i tylnym węźle pojazdu" />
+		<text name="hlmgui_debugFlagTT" text="Wyświetla dwie flagi oznaczające wyzwolenie punktu docelowego (zielona) i wyzwolenie pojazdu (czerwona) w ustawieniu 'najpierw przód, potem tył' w trybie uwrocia " />
+	                               
+	</texts>
+</l10n>
